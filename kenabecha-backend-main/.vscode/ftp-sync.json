@@ -1,0 +1,30 @@
+{
+    "remotePath": "/var/www/api.testandtry.xyz",
+    "host": "103.48.119.59",
+    "username": "root",
+    "password": "gAB.Ev}yPKSM88u",
+    "port": 22,
+    "secure": false,
+    "protocol": "sftp",
+    "uploadOnSave": true,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "node_modules",
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ".js",
+            ".json",
+            ".txt"
+        ],
+        "path": ""
+    }
+}
